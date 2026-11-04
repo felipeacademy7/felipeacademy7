@@ -1,5 +1,29 @@
-## Olá! Eu sou o Felipe 👋
+# Olá! Eu sou o Felipe 👋
 
+### 📱 Desenvolvedor Mobile em formação
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º semestre na UNICID.
+
+💻 Tenho interesse em desenvolvimento mobile, criação de sites, aplicativos e novas tecnologias.
+
+🚀 Estou desenvolvendo minhas habilidades em programação e construindo meus primeiros projetos.
+
+---
+
+### 🛠️ Tecnologias em aprendizado
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Desenvolvimento Mobile
+
+### 🎯 Objetivos
+
+- Criar sites e aplicativos.
+- Desenvolver projetos práticos.
+- Evoluir e aprimorar minhas habilidades em programação.
+- Construir meu portfólio profissional.
 <!--
 **felipeacademy7/felipeacademy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
