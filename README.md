@@ -1,4 +1,41 @@
-# Olá,eu sou o Felipe👋🏻 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=O%20Teu%20Nome&fontSize=35&fontColor=00ff66&fontAlign=50&animation=waving" width="100%"/>
+<div align="center">
+
+<!-- Banner com gradiente em tons de azul e roxo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,80,90&height=180&section=header&text=Felipe&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+### Olá, eu sou o Felipe 👋🏻
+
+<p align="center">
+  Sempre aprendendo, construindo e explorando novas tecnologias.
+</p>
+
+<!-- Botões com cores coordenadas -->
+<p align="center">
+  <a href="O_TEU_LINK_DE_PORTFOLIO">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://linkedin.com/in/O_TEU_UTILIZADOR">
+    <img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/O_TEU_UTILIZADOR?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITÓRIOS-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-6d28d9?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4f46e5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-2563eb?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
 
 
 ### 🖥️ Desenvolvedor Front-end / Back-end
