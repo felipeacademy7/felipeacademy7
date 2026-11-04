@@ -26,18 +26,6 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-6d28d9?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-4f46e5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-2563eb?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-
 ### 🖥️ Desenvolvedor Front-end / Back-end
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º semestre na UNICID.
