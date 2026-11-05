@@ -1,13 +1,18 @@
+
 <div align="center">
 
-<!-- Banner com gradiente em tons de azul e roxo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,80,90&height=180&section=header&text=Felipe&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0756B8,100:00A6FF&height=200&section=header&text=Felipe%20Melo&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=💻%20Desenvolvedor%20em%20formação&descAlignY=60&descSize=18"/>
 
-### Olá, eu sou o Felipe 👋🏻
+# 💻 Felipe Melo
 
-<p align="center">
-  Sempre aprendendo, construindo e explorando novas tecnologias.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=📖+Estudando+HTML;📖+Estudando+CSS;📖+Estudando+Python;💻+Aprendendo+a+programar;🚀+Construindo+meu+futuro!"/>
+
+### 📚 Estudando HTML, CSS e Python
+
+### 💙 Aprender • Construir • Evoluir
+
+</div>
+
 
 <!-- Botões com cores coordenadas -->
 <p align="center">
