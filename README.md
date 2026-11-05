@@ -1,11 +1,11 @@
+
 <div align="center">
 
-<h1>💻 Felipe Melo</h1>
+# 💻 Felipe Melo
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%93%9A+Estudando+HTML%2C+CSS+e+Python;✨+Aprender%2C+construir+e+evoluir"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=📚+Estudando+HTML%2C+CSS+e+Python;✨+Aprender%2C+construir+e+evoluir&repeat=true" alt="Frases animadas" />
 
 </div>
-
 
 
 <!-- Botões com cores coordenadas -->
