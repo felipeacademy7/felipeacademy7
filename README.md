@@ -26,10 +26,11 @@
 
 ### 🛠️ Tecnologias em aprendizado
 
-- HTML
-- CSS
-- JavaScript
 - Python
+- HTML
+- JavaScript
+- CSS
+- Dev C++
 - Desenvolvimento Mobile
 
 ### 🎯 Objetivos
