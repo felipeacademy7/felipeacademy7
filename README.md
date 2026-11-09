@@ -92,6 +92,23 @@ Busco minha **primeira oportunidade na área de desenvolvimento**, para contribu
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
 </p>
 
+### 🎯 Meu foco agora
+
+Desenvolver minhas habilidades para conquistar uma oportunidade de trabalho em tecnologia e continuar evoluindo na minha carreira. Atualmente, meu foco de estudo está em **Python e HTML**.
+
+*   Fortalecer minha base em Python, HTML e lógica de programação.
+*   Aprofundar meus conhecimentos em desenvolvimento web e na integração com aplicações.
+*   Aplicar o aprendizado em projetos práticos para me preparar para os desafios do trabalho em tecnologia.
+
+---
+
+### Vamos conversar?
+
+Estou em busca de oportunidades para aprender, colaborar e iniciar minha trajetória profissional em desenvolvimento.
+
+
+
+
 
 
 
