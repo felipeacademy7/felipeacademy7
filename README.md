@@ -20,8 +20,6 @@
 
 🚀 Estou desenvolvendo minhas habilidades em programação e construindo meus primeiros projetos.
 
-📩 felipeacademy7@gmail.com
-
 ---
 
 ### 🛠️ Tecnologias em aprendizado
