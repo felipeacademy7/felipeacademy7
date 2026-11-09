@@ -64,7 +64,7 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](felipe-melo-41bba2432)
+[![LinkedIn]https://www.linkedin.com/in/felipe-melo-41bba2432/
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seusite.com)
 <!--
 **felipeacademy7/felipeacademy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
