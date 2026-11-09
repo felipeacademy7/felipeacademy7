@@ -54,6 +54,9 @@ Busco minha **primeira oportunidade na área de desenvolvimento**, para contribu
 - Desenvolver projetos funcionais ao longo prazo.
 - Evoluir e aprimorar minhas habilidades em programação.
 - Construir meu portfólio profissional.
+
+---
+
 ### 🛠️ Minhas Tecnologias e Ferramentas Favoritas
 
 #### 💻 Linguagens e Tecnologias
