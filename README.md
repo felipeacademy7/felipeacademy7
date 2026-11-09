@@ -14,15 +14,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seusite.com)
 ---
 
-### 🖥️ Desenvolvedor Front-end / Back-end
+### 🖥️ Desenvolvedor Front-end
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 2º semestre na UNICID.
-
-💻 Tenho interesse em desenvolver sites, aplicativos e novas tecnologias.
+👾 Tenho interesse em desenvolver sites, aplicativos e novas tecnologias.
 
 🚀 Estou desenvolvendo minhas habilidades em programação e construindo meus primeiros projetos.
 
-📫 Como me encontrar: felipeacademy7@gmail.com
+📩 felipeacademy7@gmail.com
 
 ---
 
