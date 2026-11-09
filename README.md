@@ -6,13 +6,24 @@
 
 *Transformando aprendizado em sistemas web, projetos práticos e novas possibilidades.*
 
-</div>
+</div> 
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-melo-41bba2432/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeacademy7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seusite.com)
+<p>
+  <a href="TEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:TEU_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="LINK_DO_TEU_CURRICULO" target="_blank">
+    <img src="https://img.shields.io/badge/CURR%C3%8DCULO-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo">
+  </a>
+  <a href="LINK_DO_TEU_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-121011?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+  </a>
+</p>
 
 ### 🖥️ Desenvolvedor Front-end
 
