@@ -50,7 +50,7 @@ Busco minha **primeira oportunidade na área de desenvolvimento**, para contribu
 
 ### 🎯 Objetivos
 
-- Criar sites e aplicativos.
+- Apronfundar meu conhecimento para o desenvolvimento web.
 - Desenvolver projetos funcionais ao longo prazo.
 - Evoluir e aprimorar minhas habilidades em programação.
 - Construir meu portfólio profissional.
@@ -89,16 +89,6 @@ Busco minha **primeira oportunidade na área de desenvolvimento**, para contribu
 #### ☁️ Computação em Nuvem
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-
----
-
-### 🎯 Meu foco agora
-
-Desenvolver minhas habilidades para conquistar uma oportunidade de trabalho em tecnologia e continuar evoluindo na minha carreira. Atualmente, meu foco de estudo está em **Python e HTML**.
-
-*   Fortalecer minha base em Python, HTML e lógica de programação.
-*   Aprofundar meus conhecimentos em desenvolvimento web e na integração com aplicações.
-*   Aplicar o aprendizado em projetos práticos para me preparar para os desafios do trabalho em tecnologia.
 
 ---
 
