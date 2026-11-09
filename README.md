@@ -87,6 +87,7 @@ Busco minha **primeira oportunidade na área de desenvolvimento**, para contribu
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 
+---
 
 ### 🎯 Meu foco agora
 
