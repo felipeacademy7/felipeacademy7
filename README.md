@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:09396c,100:007acc&height=260&section=header&text=Felipe%20Melo&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Desenvolvimento%20Web%20%7C%20APRENDER%20%E2%80%A2%20CONSTRUIR%20%E2%80%A2%20EVOLUIR&subFontSize=16&subFontColor=79c0ff" width="100%" />
 
-### **Estudante de Desenvolvimento de Sistemas — Estudando Python e HTML**
+### **Estudante de Analise de Desenvolvimento de Sistemas — Estudando Python e HTML**
 
 *Transformando aprendizado em sistemas web, projetos práticos e novas possibilidades.*
 
