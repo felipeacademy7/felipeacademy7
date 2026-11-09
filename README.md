@@ -27,7 +27,7 @@
 - Python
 - HTML
 - JavaScript
-- DevC++
+- Dev-C++
 - Desenvolvimento Mobile
 
 ### 🎯 Objetivos
@@ -36,8 +36,7 @@
 - Desenvolver projetos funcionais ao longo prazo.
 - Evoluir e aprimorar minhas habilidades em programação.
 - Construir meu portfólio profissional.
-
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Minhas Tecnologias e Ferramentas Favoritas
 
 #### 💻 Linguagens e Tecnologias
 <p>
@@ -58,6 +57,7 @@
 #### 🛠️ Ambiente de Desenvolvimento e Editores
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++">
 </p>
 
 #### 🗄️ Banco de Dados
@@ -73,3 +73,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
 </p>
+
+
+
+
