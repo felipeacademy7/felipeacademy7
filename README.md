@@ -27,8 +27,7 @@
 - Python
 - HTML
 - JavaScript
-- CSS
-- Dev C++
+- DevC++
 - Desenvolvimento Mobile
 
 ### 🎯 Objetivos
