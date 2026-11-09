@@ -25,11 +25,18 @@
   </a>
 </p>
 
-### 🖥️ Desenvolvedor Front-end
+### 👨‍💻 Sobre mim
 
-👾 Tenho interesse em desenvolver sites, aplicativos e novas tecnologias.
+Olá! Sou **Felipe Melo**, tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**[span_1](start_span)[span_1](end_span), com foco em **desenvolvimento web**.
 
-🚀 Estou desenvolvendo minhas habilidades em programação e construindo meus primeiros projetos.
+Atualmente, concentro meus estudos em **Python, HTML, JavaScript** e ferramentas de Inteligência Artificial, desenvolvendo minha base técnica e aplicando o que aprendo em projetos práticos. Também busco evoluir meus conhecimentos em lógica de programação e construção de sistemas funcionais.
+
+Busco minha **primeira oportunidade na área de desenvolvimento**, para contribuir com projetos reais, aprender com a equipe e evoluir como desenvolvedor.
+
+*   🎓 **Formação:** Análise e Desenvolvimento de Sistemas em andamento[span_2](start_span)[span_2](end_span).
+*   🛠️ **Prática:** Lógica de programação, desenvolvimento web e automações.
+*   🌱 **Foco de estudo:** Python, HTML, JavaScript e ferramentas modernas.
+*   🔔 **Interesse profissional:** Oportunidades de estágio e início de carreira em desenvolvimento.
 
 ---
 
