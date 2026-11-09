@@ -62,17 +62,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-> **Nota:** Substitua `SEU_USUARIO` pelo seu username real do GitHub.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](felipe-melo-41bba2432)
